@@ -1,0 +1,8 @@
+---
+category: data
+filename: FakeData1.data
+weight: 1
+title: The Title
+description: A fake dataset, the first one
+type: text/csv
+---
