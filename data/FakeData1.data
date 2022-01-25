@@ -2,7 +2,7 @@
 category: data
 filename: FakeData1.data
 weight: 1
-title: Figure 1
-description: Data for figure 1. (Fake dataset, in CSV format)
+title: Figure 1 data
+description: Dataset for figure 1. (CSV format)
 type: text/csv
 ---
